@@ -1,0 +1,46 @@
+/* Task1  */
+ .parent .child .title{
+    color:red;
+}
+
+.parent .title{
+    color:blue;
+}
+
+.parent p,
+.title
+{
+    color:green;
+} 
+
+/* task 2  */
+div{
+    padding:10px ;
+    padding-bottom:20px;
+}
+.title-one,
+.title-two,
+.title-three
+{
+margin:50px;
+background-color:darkred;
+color:white;
+font-size:20px;
+ max-width:400px;
+ width:fit-content;
+
+}
+.title-four{
+background-color:darkred;
+color:white;
+font-size:20px;
+max-width:400px;
+max-height:100px;
+width:fit-content;
+overflow: hidden;
+
+
+
+
+}
+
